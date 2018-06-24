@@ -3,7 +3,7 @@ This list has a bias towards education.
 
 ## Contents
 
-- [Interpreters/Compilers](#interpreters-compilers)
+- [Interpreters/Compilers](#interpreterscompilers)
 - [Virtual Machines](#virtual-machines)
 - [Databases](#databases)
 - [Operating Systems](#operating-systems)
