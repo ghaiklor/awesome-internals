@@ -48,5 +48,6 @@ This list has a bias towards education.
 
 ## Network
 
+- [A computer networking zine, by Julia Evans](https://jvns.ca/networking-zine.pdf) - zine about OSI layer with great examples and simplified for better understanding. What is going on under the hood, when you are requesting an image of cat, etc...
 - [A container networking overview, by Julia Evans](https://jvns.ca/blog/2016/12/22/container-networking/) - there are a lot of different ways you can network containers together, and the documentation on the internet about how it works is often pretty bad. I got really confused about all of this, so I’m going to try to explain what it all is in laymen’s terms.
 - [High Performance Browser Networking, by Ilya Grigorik](https://hpbn.co) - this book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.
