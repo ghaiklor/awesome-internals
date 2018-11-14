@@ -41,6 +41,7 @@ This list has a bias towards education.
 
 - [Demystifying the Secure Enclave Processor, by Tarjei Mandt, Mathew Solnik, David Wang](http://mista.nu/research/sep-paper.pdf) - SEP is designed as a security circuit configured to perform secure services for the rest of the SOC, with no direct access from the main processor. The paper dives into its implementation and how it commnunicates with other components.
 - [How OSX executes applications, by Mohit Muthanna Cheppudira](http://0xfe.blogspot.de/2006/03/how-os-x-executes-applications.html) - a deep intro into how OS X executes applications, Mach-O format, etc...
+- [htop explained, by Pēteris Ņikiforovs](https://peteris.rocks/blog/htop) - explanation of everything you can see in htop/top on Linux.
 - [Linux Inside, by 0xAX](https://0xax.gitbooks.io/linux-insides/) - book where author wants to share his modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
 - [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - a series of posts on how to implement your own operating system from scratch.
 - [Parsing Mach-O files, by Alex Denisov](https://lowlevelbits.org/parsing-mach-o-files/) - this article describes how to parse Mach-O file and explains its format.
