@@ -4,6 +4,7 @@ This list has a bias towards education.
 ## Contents
 
 - [Interpreters/Compilers](#interpreterscompilers)
+- [Parsers](#parsers)
 - [Databases](#databases)
 - [Operating Systems](#operating-systems)
 - [Network](#network)
@@ -32,6 +33,10 @@ This list has a bias towards education.
 - [Project: A Programming Language, by Marijn Haverbeke](http://eloquentjavascript.net/12_language.html) - we will build a programming LISP-like language called Egg. It will be a tiny, simple language—but one that is powerful enough to express any computation you can think of. It will allow simple abstraction based on functions.
 - [Understanding Compiler Optimization - Chandler Carruth - Opening Keynote Meeting C++ 2015](https://www.youtube.com/watch?v=FnGCDLhaxKU) - talk from Chandler Carruth about compilers optimizations, implemented in LLVM.
 - [V8: A tale of two compilers, by Andy Wingo](https://wingolog.org/archives/2011/07/05/v8-a-tale-of-two-compilers) - advanced intro into two compilers in V8: FullCodegen and Crankshaft.
+
+## Parsers
+
+- [Learning Parser Combinators With Rust, by Bodil Stokke](https://bodil.lol/parser-combinators/) - this article teaches the fundamentals of parser combinators to people who are already Rust programmers. It assumes no other knowledge, and will explain everything that isn't directly related to Rust, as well as a few of the more unexpected aspects of using Rust for this purpose. It will not teach you Rust if you don't already know it, and, if so, it probably also won't teach you parser combinators very well.
 
 ## Databases
 
