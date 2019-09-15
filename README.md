@@ -1,14 +1,6 @@
 A curated list of awesome resources and learning materials in the field of X internals.
 This list has a bias towards education.
 
-## Contents
-
-- [Interpreters/Compilers](#interpreterscompilers)
-- [Parsers](#parsers)
-- [Databases](#databases)
-- [Operating Systems](#operating-systems)
-- [Network](#network)
-
 ## Interpreters/Compilers
 
 - [A closer look at Crankshaft, V8's optimizing compiler, by Andy Wingo](https://wingolog.org/archives/2011/08/02/a-closer-look-at-crankshaft-v8s-optimizing-compiler) - continuing in my series of articles on V8, Google's JavaScript engine, in this article I'd like to take a closer look at V8's optimizing compiler, with a focus on the Hydrogen intermediate language.
