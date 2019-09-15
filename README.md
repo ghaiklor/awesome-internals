@@ -61,3 +61,26 @@ This list has a bias towards education.
 - [High Performance Browser Networking, by Ilya Grigorik](https://hpbn.co) - this book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.
 - [How can an Internet work and how does the Internet work, by Stanislav Shalunov](https://www.mccme.ru/computers/Shalunov-inet.pdf) - the purpose of this book is to give an understanding of how the Internet works. We won't discuss formats of packets and such exact technical details.
 - [Monitoring and Tuning the Linux Networking Stack: Receiving Data, by packagecloud](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data) - this blog post explains how computers running the Linux kernel receive packets, as well as how to monitor and tune each component of the networking stack as packets flow from the network toward userland programs.
+
+
+## Bundlers
+
+- [How it works](https://parceljs.org/how_it_works.html)- A blog post briefly explaining how the Javascript bundler Parcel works.
+
+- [How does Bundler work, anyway?](https://andre.arko.net/2015/04/28/how-does-bundler-work-anyway/) - Blog post explaning how the Ruby package/dependency manager handles dependencies.
+
+- [Unbundling the JavaScript module bundler](https://www.youtube.com/watch?v=WGlT921ixx4&t=40s) - This video by Luciano Mammino explains how the module bundler Webpack works.
+
+- [Understanding webpack from the inside out](https://www.youtube.com/watch?v=gEBUU6QfVzk) - Video explaining the internals of Webpack: entry point, output, loaders, building a dependency graph, and utilizing plugins.
+
+- [Let’s learn how module bundlers work and then write one ourselves](https://www.freecodecamp.org/news/lets-learn-how-module-bundlers-work-and-then-write-one-ourselves-b2e3fe6c88ae/) - Brief tutorial explaining how module bundlers work in Javascript by building a toy bundler.
+
+
+## Package Managers
+
+- [Basics of the Debian package management system](https://www.debian.org/doc/manuals/debian-faq/ch-pkgtools.en.html) - Chapter 7 from the Debian GNU/Linux documents explaining how dpkg, one of the earliest package managers, handles downloading packages.
+
+- [So you want to write a package manager](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527) - A blog post explaining the core components of a package management system: project code, manifest file, lock file, and dependency code.
+
+- [Let's Dev: A Package Manager](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/) - A tutorial explaining how package management works by building a toy package manager.
+
