@@ -1,6 +1,10 @@
 A curated list of awesome resources and learning materials in the field of X internals.
 This list has a bias towards education.
 
+## Courses
+
+- [From NAND to Tetris](https://www.nand2tetris.org) - The course contains all the project materials and software tools necessary for building a general-purpose computer system from the ground up. The materials are aimed at students, instructors, and self-learners. Everything is free and open-source, as long as you operate in a non-profit, educational setting.
+
 ## Interpreters/Compilers
 
 - [A closer look at Crankshaft, V8's optimizing compiler, by Andy Wingo](https://wingolog.org/archives/2011/08/02/a-closer-look-at-crankshaft-v8s-optimizing-compiler) - continuing in my series of articles on V8, Google's JavaScript engine, in this article I'd like to take a closer look at V8's optimizing compiler, with a focus on the Hydrogen intermediate language.
