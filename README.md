@@ -24,6 +24,7 @@ This list has a bias towards education.
 
 ## Operating Systems
 
+- [How debugger works, by Alexander Sandler](http://www.alexonlinux.com/how-debugger-works) - In this article, I’d like to tell you how real debugger works. What happens under the hood and why it happens. We’ll even write our own small debugger and see it in action.
 - [How debuggers work, by Eli Bendersky](https://eli.thegreenplace.net/2011/01/23/how-debuggers-work-part-1/) - a series of articles on how debuggers work.
 - [How OSX executes applications, by Mohit Muthanna Cheppudira](http://0xfe.blogspot.de/2006/03/how-os-x-executes-applications.html) - a deep intro into how OS X executes applications, Mach-O format, etc...
 - [htop explained, by Pēteris Ņikiforovs](https://peteris.rocks/blog/htop) - explanation of everything you can see in htop/top on Linux.
