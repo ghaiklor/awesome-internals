@@ -15,7 +15,7 @@ This list has a bias towards education.
 
 ## Courses
 
-- [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course) - Self paced course from Stanford online on compilers.
+- [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) - Self-paced course from Stanford online on compilers.
 - [From NAND to Tetris](https://www.nand2tetris.org) - The course contains all the project materials and software tools necessary for building a general-purpose computer system from the ground up. The materials are aimed at students, instructors, and self-learners. Everything is free and open-source, as long as you operate in a non-profit, educational setting.
 
 ## Hardware
